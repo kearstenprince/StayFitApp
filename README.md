@@ -108,4 +108,5 @@ Allows a user to record and track their current weight, and helps to suggest a w
 <img src="https://i.imgur.com/lYHn37F.jpg" height=200>
 
 ### [BONUS] Interactive Prototype
-<img src="https://i.imgur.com/AiKfE5g.gif" width=200>
+
+<img src='Walkthrough.gif' title='Interactive Prototype' width='' alt='Video Walkthrough' />
