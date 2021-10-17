@@ -100,7 +100,7 @@ Allows a user to record and track their current weight, and helps to suggest a w
 * Settings -> Toggle settings
 
 ## Wireframes
-<img src="https://IMG_6649.jpg" width=800><br>
+<img src="IMG_6649.jpg" width=800><br>
 
 ### [BONUS] Digital Wireframes & Mockups
 <img src="signup-mock.png" height=200> <img src="login-mockup.png" height=200> <img src="profile-mockup.png" height=200> <img src="homescreen-mockup.png" height=200> <img src="bodyprofile-mockup.png" height=200> <img src="workout-mockup.png" height=200> <img src="workoutlist-mockup.png" height=200>
