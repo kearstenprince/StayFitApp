@@ -2,8 +2,6 @@
 Unit 8: Group Milestone - README 
 ===
 
-# TUNIN
-
 ## Table of Contents
 1. [Overview](#Overview)
 1. [Product Spec](#Product-Spec)
