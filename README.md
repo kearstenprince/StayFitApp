@@ -110,7 +110,7 @@ Allows a user to record and track their current weight, and helps to suggest a w
 <img src='Walkthrough.gif' title='Interactive Prototype' width='' alt='Video Walkthrough' />
 
 ### Schema
-<img src="Schema-user.jpg" width=800><br>
+<img src="Schema-user.png" width=800><br>
 
 ** Networking
 
