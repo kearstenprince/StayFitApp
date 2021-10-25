@@ -108,3 +108,13 @@ Allows a user to record and track their current weight, and helps to suggest a w
 ### [BONUS] Interactive Prototype
 
 <img src='Walkthrough.gif' title='Interactive Prototype' width='' alt='Video Walkthrough' />
+
+### Schema
+<img src="Schema-user.jpg" width=800><br>
+
+** Networking
+
+List of networking requests by screen. 
+* Profile Screen
+	* (Read/GET) Query logged in user object
+	* (Update/PUT) Update user profile image
