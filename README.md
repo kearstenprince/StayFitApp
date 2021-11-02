@@ -118,6 +118,14 @@ List of networking requests by screen.
 * Profile Screen
 	* (Read/GET) Query logged in user object
 	* (Update/PUT) Update user profile image
+
+The following **required** functionality is completed:
+
+- [ X ] User can sign up to create a new account.
+- [ X ] User can log in and log out of his or her account.
+- [ X ] The current signed in user is persisted across app restarts.
+
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
