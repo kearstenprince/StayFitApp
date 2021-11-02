@@ -118,3 +118,10 @@ List of networking requests by screen.
 * Profile Screen
 	* (Read/GET) Query logged in user object
 	* (Update/PUT) Update user profile image
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='sfwalkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
