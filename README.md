@@ -134,6 +134,13 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+The following **required** functionality is completed:
+
+- [ X ] User can enter BMI information.
+- [ X ] User can start a workout and view a workout list.
+- [ X ] The current signed in user information is persisted through app.
+
+
 ## Updated Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
